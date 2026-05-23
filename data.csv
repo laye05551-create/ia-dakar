@@ -1,0 +1,42 @@
+message,categorie
+combien le prix,prix
+c'est combien,prix
+quel est le prix,prix
+prix svp,prix
+c'est quel prix svp,prix
+niata la,prix
+biir bi niata la,prix
+le prix est de combien,prix
+ca coute combien,prix
+quel est le tarif,prix
+vous livrez a dakar,livraison
+livraison disponible a guediawaye,livraison
+est ce que vous faites la livraison,livraison
+j'habite a mermoz est ce que vous livrez,livraison
+livraison bi nex na,livraison
+vous faites les livraisons hors dakar,livraison
+est ce que vous livrez a domicile,livraison
+ou se trouve votre boutique,adresse
+quelle est votre adresse,adresse
+je peux passer recuperer mon colis,adresse
+ou puis-je vous trouver,adresse
+ou est situe votre magasin,adresse
+mon colis est en retard,plainte
+ca fait 3 jours que j'attends,plainte
+le produit est casse,plainte
+c'est pas ce que j'ai commande,plainte
+service nul,plainte
+pourquoi le prix augmente,plainte
+pourquoi prix toujours cher,plainte
+le prix n'est pas clair,plainte
+le service client ne repond jamais,plainte
+c'est du vol,plainte
+je ne suis pas satisfait,plainte
+merci beaucoup j'adore,avis_positif
+tres bon produit,avis_positif
+c'est magnifique,avis_positif
+qualite bi nex na,avis_positif
+yaye gars yi,avis_positif
+service exceptionnel,avis_positif
+le produit est conforme a la photo,avis_positif
+vraiment content de mon achat,avis_positif
